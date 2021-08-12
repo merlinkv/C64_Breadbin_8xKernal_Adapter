@@ -4,6 +4,16 @@
 * You may not use the material for commercial purposes.
 * You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
+# ATTENTION
+
+This project was made for the retro community and not for resale on eBay or other auction sites. So only retro hardware forums and individual people can build this project.
+
+IT'S NOT FOR SALE ON EBAY OR OTHER AUCTIONS SITES.
+
+# Note
+
+I take no responsibiltiy for any damage to any equipment that results from the use of this board. USE AT YOUR OWN RISK!
+
 # C64_Breadbin_8xKernal_Adapter
 
 A simple 8 Kernal Adapter for C64 Breadbin based on EEPROM W27C512.
